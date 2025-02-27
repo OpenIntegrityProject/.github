@@ -22,7 +22,7 @@ We welcome contributions from developers, security experts, and open-source enth
 
 - ⭐ **Star** our repositories to show support
 - 🏗️ Review our [**Contribution Guide**](https://github.com/OpenIntegrityProject/docs/blob/main/CONTRIBUTING.md)
-- 💬 Ask a question in our [Community Discussions](https://github.com/orgs/OpenIntegrityProject/discussions)
+- 💬 Ask a question in our [**Community Discussions**](https://github.com/orgs/OpenIntegrityProject/discussions)
 - ✍️ Report an issue in our [**Initial Issue Tracker**](https://github.com/OpenIntegrityProject/community/issues)
 - 🔎 Find [**Good First Issues**](https://github.com/OpenIntegrityProject/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started
 
