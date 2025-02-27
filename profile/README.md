@@ -1,6 +1,6 @@
-# Open Integrity: Cryptographic Trust for Git Repositories
+## 🛡 Open Integrity Project: Cryptographic Roots of Trust for Open Source Development
 
-**Open Integrity** integrates cryptographic trust mechanisms into Git repositories, enabling them to serve as cryptographic roots of trust with verifiable chains of integrity. By leveraging Git's native SSH signing capabilities and structured verification processes, Open Integrity ensures transparency, provenance, and immutability for software projects without requiring modifications to Git itself.
+The **Open Integrity Project** integrates cryptographic trust mechanisms into Git repositories, enabling them to serve as cryptographic roots of trust to ensure **verifiable chains of integrity, provenance, and authorship**. By leveraging Git's native **SSH-based signing** capabilities and structured verification processes, Open Integrity ensures transparency and immutability for software projects without requiring modifications to Git itself.
 
 ## 🎯 Project Goals
 
@@ -21,15 +21,18 @@
 We welcome contributions from developers, security experts, and open-source enthusiasts.
 
 - ⭐ **Star** our repositories to show support
-- 🏗️ Review our [**Contribution Guide**](https://github.com/OpenIntegrityProject/docs/blob/main/CONTRIBUTING.md)
-- 💬 Ask a question in our [**Community Discussions**](https://github.com/orgs/OpenIntegrityProject/discussions)
+- 📢 **Sharing** your discoveries with your network
+- 💬 Ask a question or engage in discussions in our [**Community Discussions**](https://github.com/orgs/OpenIntegrityProject/discussions)
 - ✍️ Report an issue in our [**Initial Issue Tracker**](https://github.com/OpenIntegrityProject/community/issues)
 - 🔎 Find [**Good First Issues**](https://github.com/OpenIntegrityProject/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started
+- 🏗️ Review our [**Contribution Guide**](https://github.com/OpenIntegrityProject/docs/blob/main/CONTRIBUTING.md)
+- 💰 Become a financial patron to our host [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
 
 ## 📜 Copyright & License
 
 Unless otherwise noted, all files are ©2025 Open Integrity Project / Blockchain Commons LLC., and licensed under the [BSD 2-Clause Pluse Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) – See [LICENSE](LICENSE) for details.
 
-### 🌍 About Us
+## 🌍 About Us
 
-📖 The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**.
+The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**.
+
