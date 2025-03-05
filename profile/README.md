@@ -12,9 +12,9 @@ The **Open Integrity Project** integrates cryptographic trust mechanisms into Gi
 
 ## 💡 Learn More
 
-- 📖 [**Documentation**](https://github.com/OpenIntegrityProject/docs) — Documentation Hub, with problem statement, architecture, and guides
-- 🛠️ [**Scripts**](https://github.com/OpenIntegrityProject/scripts) — Tools for creating and verifying Open Integrity repositories
-- 💬 [**Discussions**](https://github.com/OpenIntegrityProject/docs/discussions) — Join the conversation
+- 📖 [**Documentation**](https://github.com/OpenIntegrityProject/core/tree/main/docs) — Documentation Hub, with problem statement, architecture, and guides
+- 🛠️ [**Tools & Scripts**](https://github.com/OpenIntegrityProject/core/tree/main/src) — Tools for creating and verifying Open Integrity repositories
+- 💬 [**Discussions**](https://github.com/orgs/OpenIntegrityProject/discussions) — Join the conversation
 
 ## 🤝 Get Involved
 
@@ -23,16 +23,15 @@ We welcome contributions from developers, security experts, and open-source enth
 - ⭐ **Star** our repositories to show support
 - 📢 **Sharing** your discoveries with your network
 - 💬 Ask a question or engage in discussions in our [**Community Discussions**](https://github.com/orgs/OpenIntegrityProject/discussions)
-- ✍️ Report an issue in our [**Initial Issue Tracker**](https://github.com/OpenIntegrityProject/community/issues)
-- 🔎 Find [**Good First Issues**](https://github.com/OpenIntegrityProject/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started
-- 🏗️ Review our [**Contribution Guide**](https://github.com/OpenIntegrityProject/docs/blob/main/CONTRIBUTING.md)
+- ✍️ Report an issue in our [**Issue Tracker**](https://github.com/OpenIntegrityProject/core/issues)
+- 🔎 Find [**Good First Issues**](https://github.com/OpenIntegrityProject/core/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started
+- 🏗️ Review our [**Contribution Guide**](https://github.com/OpenIntegrityProject/core/blob/main/docs/CONTRIBUTING.md)
 - 💰 Become a financial patron to our host [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
 
 ## 📜 Copyright & License
 
-Unless otherwise noted, all files are ©2025 Open Integrity Project / Blockchain Commons LLC., and licensed under the [BSD 2-Clause Pluse Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) – See [LICENSE](LICENSE) for details.
+Unless otherwise noted, all files are ©2025 Open Integrity Project / Blockchain Commons LLC., and licensed under the [BSD 2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) – See [LICENSE](https://github.com/OpenIntegrityProject/core/blob/main/LICENSE) for details.
 
 ## 🌍 About Us
 
 The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**.
-
