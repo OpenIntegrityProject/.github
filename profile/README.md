@@ -10,6 +10,14 @@ The **Open Integrity Project** integrates cryptographic trust mechanisms into Gi
 - **Trust Delegation** – Enable controlled transition from inception key to authorized signers
 - **Platform-Agnostic Validation** – Work across GitHub, GitLab, and self-hosted solutions
 
+## 🧪 Open Integrity Forge: a proof-of-concept demo
+
+[Open Integrity Forge](https://github.com/OpenIntegrityProject/open-integrity-forge) is a Git platform on Cloudflare in which the platform cannot make a commit valid: AI agents work in parallel forks with their own short-lived signing keys, every push is checked against the repository's own signer policy, and a change reaches `main` only when a person signs that merge commit with a passkey. It is a demonstration, not a specification; its rules and file formats are not yet reconciled with the tools in `core`.
+
+- 🌐 [**Live demo**](https://forgedemo.gordianstack.com) — sign in with a passkey, then "Play the story"
+- 🎬 [**Video walkthrough**](https://www.youtube.com/watch?v=_KdOGtynXig) — seven minutes
+- 📘 [**Forge overview**](https://developer.blockchaincommons.com/open-integrity/forge/) on the Blockchain Commons developer site
+
 ## 💡 Learn More
 
 - 📖 [**Documentation**](https://github.com/OpenIntegrityProject/core/tree/main/docs) — Documentation Hub, with problem statement, architecture, and guides
